@@ -43,7 +43,7 @@ But, at the time of production, it fails to serve.
 
 ##### Process To Become Full Stack ML Developer.
 
-<img title="a title" alt="Alt text" src="/blogs/assets/postimages/full-stack-machine-learning-2.jpg">
+<img title="a title" alt="Alt text" src="/assets/postimages/full-stack-machine-learning-2.jpg">
 
 Machine Learning
 To become Full-Stack you must have expertise in most of the machine learning pipeline and algorithms.
@@ -96,7 +96,7 @@ As a full-stack ML developer, it is an optional stack. But basic knowledge is a 
 ##### Deployment
 Deployment is the process of making your application available for use on the internet.
 
-<img title="a title" alt="Alt text" src="/blogs/assets/postimages/full-stack-machine-learning-3.jpg">
+<img title="a title" alt="Alt text" src="/assets/postimages/full-stack-machine-learning-3.jpg">
 
 After creating the backend code with ML-model. The code is tested locally. Testing gives a go-ahead signal for production.
 

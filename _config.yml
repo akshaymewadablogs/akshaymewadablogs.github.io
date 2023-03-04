@@ -4,7 +4,7 @@ title: "Akshay Mewada"
 description: "Sharing my expirence through blogs"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /blogs
+baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list:
